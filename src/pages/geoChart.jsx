@@ -1,5 +1,5 @@
-function geoChart() {
+function GeoChart() {
   return <div>Geography charts</div>;
 }
 
-export default geoChart;
+export default GeoChart;

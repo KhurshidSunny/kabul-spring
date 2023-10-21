@@ -1,5 +1,5 @@
-function teams() {
+function Teams() {
   return <div>Teams manage</div>;
 }
 
-export default teams;
+export default Teams;

@@ -1,5 +1,5 @@
-function lineChart() {
+function LineChart() {
   return <div>LIne chart</div>;
 }
 
-export default lineChart;
+export default LineChart;

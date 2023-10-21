@@ -1,5 +1,5 @@
-function barChart() {
+function BarChart() {
   return <div>Bar chart</div>;
 }
 
-export default barChart;
+export default BarChart;
